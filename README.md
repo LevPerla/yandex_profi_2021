@@ -1,6 +1,6 @@
 # yandex_profi_2021
 
-This repo consist of my solution in Yandex Я профессионал Cup 2020-2021.  
+This repo consists of my solution in Yandex Я профессионал Cup 2020-2021.  
 Unfortunately, I didn't make it to the finals, but had a good practice for development my ML skills.
 
 There were three types of tasks to solve:
